@@ -1,0 +1,25 @@
+#ifndef UTILS_H
+#define UTILS_H
+
+#define WORLD_WIDTH 1024
+#define WORLD_HEIGHT 768
+
+#define BASE_SIZE 4
+#define FOOD_TIMER 255
+#define MAX_SPECIES 160
+
+#define PI 3.14159265
+#define TWOPI 6.28318530
+#define PI_ON_SIXTEEN 0.19634954
+
+#define UINT8_T_MAX 255
+#define UINT8_T_HALF_MAX 127
+#define UINT8_T_QUARTER_MAX 63
+
+#define UINT16_T_MAX 65535
+#define UINT16_T_HALF_MAX 32767
+#define UINT16_T_QUARTER_MAX 16383
+
+#define UINT32_T_MAX 4294967295
+
+#endif
